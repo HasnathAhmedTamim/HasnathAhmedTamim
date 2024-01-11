@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Hasnath Ahmed Tamim</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif">
+<p align="center"> <img  alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*7Q3yvSIv_t0ioJ-Z.gif"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasnathahmedtamim&label=Profile%20views&color=0e75b6&style=flat" alt="hasnathahmedtamim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasnathahmedtamim" alt="hasnathahmedtamim" /></a> </p>
+
 
 - 🌱 I’m currently learning **Html , CSS ,Javacript ,React**
 
