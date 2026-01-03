@@ -13,7 +13,7 @@
 
 <!-- Profile views -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasnathahmedtamim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -34,10 +34,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/hasnath-ahmed-tamim/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <!-- Replace YOUR_USER_ID below with your numeric Stack Overflow ID -->
-  <a href="https://stackoverflow.com/u/YOUR_USER_ID" target="_blank" rel="noopener noreferrer" aria-label="Stack Overflow">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
   </a>
   <a href="https://fb.com/hasnathahmedtamim" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
@@ -71,15 +67,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnathahmedtamim&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnathAhmedTamim&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnathahmedtamim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HasnathAhmedTamim&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasnathahmedtamim&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasnathAhmedTamim&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
