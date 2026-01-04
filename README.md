@@ -20,28 +20,30 @@
 
 ### 👨‍💻 About Me
 
-<p align="center">
-🌱 Currently learning <strong>HTML, CSS, JavaScript, React</strong><br />
-💬 Ask me about <strong>Frontend development, Firebase, Node.js</strong><br />
-📫 Reach me at: <a href="mailto:hasnath.tamim333@gmail.com">hasnath.tamim333@gmail.com</a><br />
+<div align="center">
+
+🌱 Currently learning **HTML, CSS, JavaScript, React**  
+💬 Ask me about **Frontend development, Firebase, Node.js**  
+📫 Reach me at: [hasnath.tamim333@gmail.com](mailto:hasnath.tamim333@gmail.com)  
 🎯 Eager to contribute to open-source and real-world projects
-</p>
+
+</div>
 
 ---
 
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasnath-ahmed-tamim/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+  <a href="https://www.linkedin.com/in/hasnath-ahmed-tamim/" aria-label="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://fb.com/hasnathahmedtamim" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
+  <a href="https://fb.com/hasnathahmedtamim" aria-label="Facebook">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/hasnath_tamim" target="_blank" rel="noopener noreferrer" aria-label="Instagram">
+  <a href="https://instagram.com/hasnath_tamim" aria-label="Instagram">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/hasnath_ahmed" target="_blank" rel="noopener noreferrer" aria-label="LeetCode">
+  <a href="https://www.leetcode.com/hasnath_ahmed" aria-label="LeetCode">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
@@ -81,3 +83,7 @@
 ---
 
 ### ✨ Thank You for Visiting My Profile!
+
+<p align="center">
+  <i>Feel free to reach out if you'd like to collaborate on a project or just chat about web development!</i>
+</p>
