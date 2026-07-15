@@ -7,7 +7,7 @@
 
 # Hi 👋, I'm Hasnath Ahmed Tamim
 
-### Junior Software Engineer | Full Stack Developer
+### Full Stack Developer | Junior Software Engineer
 
 <a href="https://git.io/typing-svg">
   <img
@@ -16,9 +16,13 @@
   />
 </a>
 
-<br>
+<br/>
 
 📍 Dhaka, Bangladesh • 📧 <a href="mailto:hasnath.tamim333@gmail.com">hasnath.tamim333@gmail.com</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
@@ -26,18 +30,27 @@
 
 # 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with professional experience building modern web applications using **React.js, Next.js, Node.js, TypeScript, and MongoDB**.
+I'm a **Full Stack Developer** with professional experience building scalable web applications using **React.js, Next.js, Node.js, TypeScript, and MongoDB**.
 
 Previously, I worked as a **Junior Software Engineer at Fiber@Home Ltd.**, where I contributed to frontend and backend development, REST API design, and Android applications using **Kotlin** and **Jetpack Compose**.
 
-I enjoy solving complex problems, designing scalable systems, and continuously learning modern technologies.
+I enjoy solving real-world problems, designing clean architectures, and continuously learning modern technologies to build impactful software products.
+
+---
+
+# ⚡ Current Tech Focus
+
+```text
+React.js • Next.js • TypeScript • Node.js
+Prisma • PostgreSQL • Docker • System Design
+```
 
 ---
 
 # 🚀 Currently
 
 - 🔭 Building production-ready Full Stack applications.
-- 🌱 Learning **Prisma ORM**, **PostgreSQL**, **Docker**, and **System Design**.
+- 🌱 Learning Prisma ORM, PostgreSQL, Docker, and System Design.
 - ⚙️ Exploring scalable backend architecture and cloud technologies.
 - ⚽ Building football management and prediction platforms.
 - 📚 Practicing Data Structures and Algorithms.
@@ -108,10 +121,10 @@ I enjoy solving complex problems, designing scalable systems, and continuously l
 
 | Project | Description | Stack |
 |---------|-------------|--------|
-| ⚽ FC26 Auction | Real-time fantasy football auction platform with live bidding and tournament management. | Next.js • TypeScript • Node.js • MongoDB |
-| 🏆 FIFA Prediction League | Football prediction platform with leaderboard and automated scoring. | React • Node.js • MongoDB |
-| ✅ Task Tracker App | Task management application with JWT authentication and real-time updates. | MERN Stack |
-| 📚 Bookshop Management | Online bookstore with inventory management and REST APIs. | MERN Stack |
+| [⚽ FC26 Auction](https://fc26-test-auctions.vercel.app/) | Real-time fantasy football auction platform with live bidding and tournament management. | Next.js • TypeScript • Node.js • MongoDB |
+| [🏆 FIFA Prediction League](https://client-kappa-eight-62.vercel.app/) | Football prediction platform with leaderboard and automated scoring. | React • Node.js • MongoDB |
+| [✅ Task Tracker App](https://task-tracker-app-opal.vercel.app/) | Task management application with JWT authentication and real-time updates. | MERN Stack |
+| [📚 Bookshop Management](https://lovely-selkie-1c53f7.netlify.app/) | Online bookstore with inventory management and REST APIs. | MERN Stack |
 
 ---
 
@@ -162,13 +175,17 @@ Published research on fault prediction techniques for green cloud computing envi
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 <div align="center">
 
-### Open to Software Engineer & Full Stack Developer Opportunities 🚀
+### 💡 Philosophy
+
+> Build software that solves real problems, write clean code, and never stop learning.
+
+<br/>
+
+### 🚀 Open to Software Engineer & Full Stack Developer Opportunities
+
+📧 **hasnath.tamim333@gmail.com**
 
 **Code • Learn • Build • Repeat**
 
