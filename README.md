@@ -153,50 +153,14 @@
 
 # 🚀 FEATURED PROJECTS
 
-### ⚽ FC26 Auction
-Real-time fantasy football auction platform featuring live bidding, squad management, and role-based administration.
-
-**Tech Stack:** Next.js • TypeScript • Node.js • MongoDB • Socket.IO
-
-🔗 **Live:** https://fc26-test-auctions.vercel.app/
-
-📂 **Repository:** https://github.com/HasnathAhmedTamim/fc26-test-auctions
-
----
-
-### 🏆 FIFA Prediction League
-Football prediction platform featuring automated scoring, knockout qualification logic, and real-time leaderboards.
-
-**Tech Stack:** React • Node.js • MongoDB • PostgreSQL
-
-🔗 **Live:** https://client-kappa-eight-62.vercel.app/
-
-📂 **Repository:** https://github.com/HasnathAhmedTamim/fifa-worldcup-prediction-frontend26
-
----
-
-### 🏋️ GearUp Backend API
-Role-based backend API featuring JWT authentication, Stripe payments, rental management, and RBAC.
-
-**Tech Stack:** Node.js • Express • TypeScript • Prisma • PostgreSQL
-
-🔗 **Live:** https://b7a4-gearup-backend-assignment.onrender.com/
-
-📂 **Repository:** https://github.com/HasnathAhmedTamim/B7A4-GearUp-Backend-Assignment
-
----
-
-### ⚽ FPL News Portal
-Fantasy Premier League platform featuring player analysis, points calculator, and fixture difficulty tools.
-
-**Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
-
-🔗 **Live:** https://fpl-news-portal-nextjs.vercel.app/
-
-📂 **Repository:** https://github.com/HasnathAhmedTamim/fpl-news-portal-nextjs
-
----
-
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|--------|
+| [⚽ FC26 Auction](https://fc26-test-auctions.vercel.app/) | Real-time fantasy football auction platform featuring live bidding, squad management, tournament fixtures, and role-based administration. | <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,mongodb" height="28" /> | [🌐 Live](https://fc26-test-auctions.vercel.app/) • [📂 Repo](https://github.com/HasnathAhmedTamim/fc26-test-auctions) |
+| [🏆 FIFA Prediction League](https://client-kappa-eight-62.vercel.app/) | Football prediction platform featuring automated scoring, knockout qualification logic, role-based admin panel, and real-time leaderboards. | <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgres" height="28" /> | [🌐 Live](https://client-kappa-eight-62.vercel.app/) • [📂 Repo](https://github.com/HasnathAhmedTamim/fifa-worldcup-prediction-frontend26) |
+| [🏋️ GearUp Backend API](https://b7a4-gearup-backend-assignment.onrender.com/) | Role-based sports equipment rental backend with JWT authentication, Stripe payments, rental management, and RBAC. | <img src="https://skillicons.dev/icons?i=nodejs,express,ts,postgres,prisma" height="28" /> | [🌐 Live](https://b7a4-gearup-backend-assignment.onrender.com/) • [📂 Repo](https://github.com/HasnathAhmedTamim/B7A4-GearUp-Backend-Assignment) |
+| [⚽ FPL News Portal](https://fpl-news-portal-nextjs.vercel.app/) | Fantasy Premier League news and analytics platform featuring player analysis, points calculator, fixture difficulty tools, and a modern responsive UI. | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="28" /> | [🌐 Live](https://fpl-news-portal-nextjs.vercel.app/) • [📂 Repo](https://github.com/HasnathAhmedTamim/fpl-news-portal-nextjs) |
+| [🚀 Personal Portfolio](https://personal-portfolio-pied-zeta.vercel.app/) | Personal portfolio website showcasing projects, technical skills, professional experience, and research publications. | <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="28" /> | [🌐 Live](https://personal-portfolio-pied-zeta.vercel.app/) • [📂 Repo](https://github.com/HasnathAhmedTamim/personal-portfolio) |
+| [📚 Bookshop Management](https://lovely-selkie-1c53f7.netlify.app/) | Full-stack online bookstore featuring inventory management, Firebase authentication, REST APIs, and MongoDB integration. | <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" height="28" /> | [🌐 Live](https://lovely-selkie-1c53f7.netlify.app/) • [📂 Repo](https://github.com/HasnathAhmedTamim/simple-bookshop-management-client) |
 # 📖 RESEARCH & PUBLICATIONS
 
 ### Effective Fault Prediction Techniques for Green Cloud Computing Environments Using Machine Learning
