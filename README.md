@@ -72,7 +72,7 @@
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+<a href="https://discord.com/users/hasnath.ahmed" target="_blank">
 <img src="https://skillicons.dev/icons?i=discord" />
 </a>
 
