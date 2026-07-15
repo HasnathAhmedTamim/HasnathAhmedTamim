@@ -42,15 +42,20 @@
 - 🧠 Strong understanding of **REST APIs, Authentication, Database Design, and Software Architecture**.
 - 🎓 B.Sc. in Computer Science & Engineering from **East West University**.
 - 📚 Pursuing **Professional Masters in Information Technology** at **Jahangirnagar University**.
+- ⚽ Beyond coding, I enjoy building football-related platforms that combine technology, competition, and community.
 - 💬 Ask me about **React, Next.js, Node.js, TypeScript, MongoDB, and Full Stack Development**.
-- 🤝 Open to **Software Engineer** and **Full Stack Developer** opportunities, especially backend and scalable web applications.
+- 🤝 Open to **Software Engineer** and **Full Stack Developer** opportunities, particularly in building scalable web applications and backend systems.
 
 <br/>
 
 # ⚡ CURRENT FOCUS
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,prisma,docker" />
+</p>
+
 - 🔭 Building Full Stack SaaS and Real-Time Applications.
-- 🌱 Learning **Prisma ORM, PostgreSQL, Docker, and System Design**.
+- 🌱 Learning Prisma ORM, PostgreSQL, Docker, and System Design.
 - ⚽ Developing Football Management and Prediction Platforms.
 - 📚 Practicing Data Structures and Algorithms.
 - 🚀 Exploring Backend Architecture and Cloud Technologies.
@@ -61,7 +66,7 @@
 
 - 🌍 Portfolio: https://personal-portfolio-pied-zeta.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/hasnath-ahmed-tamim/
-- 📄 Resume: https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view
+- 📄 [View My Resume](https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view)
 - 📧 Email: hasnath.tamim333@gmail.com
 
 <br/>
@@ -69,6 +74,7 @@
 # <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>CONNECT WITH ME</b>
 
 <p align="left">
+
 <a href="https://www.linkedin.com/in/hasnath-ahmed-tamim">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -84,6 +90,7 @@
 <a href="https://personal-portfolio-pied-zeta.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
 </a>
+
 </p>
 
 <br/>
@@ -116,9 +123,9 @@
 ### Fiber@Home Ltd.
 📅 Dec 2025 – Jun 2026
 
-- Developed frontend and backend features using React.js, Next.js, TypeScript, and Node.js.
-- Designed and integrated RESTful APIs for scalable applications.
-- Collaborated with cross-functional teams to deliver production-ready software.
+- Developed frontend and backend features using React.js, Next.js, TypeScript, and Node.js for internal and customer-facing applications.
+- Designed and integrated RESTful APIs to support scalable and data-driven features across multiple modules.
+- Collaborated with cross-functional teams to deliver production-ready software and improve application usability.
 - Contributed to Android application development using Kotlin and Jetpack Compose.
 
 ---
@@ -204,17 +211,21 @@ Published research on fault prediction techniques for Green Cloud Computing envi
 
 # <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b>GITHUB STATISTICS & ANALYSIS</b>
 
-### GitHub Statistics
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HasnathAhmedTamim&theme=tokyonight&hide_border=true&show_icons=true"/>
+</p>
 
-| <img src="https://github-readme-stats.vercel.app/api?username=HasnathAhmedTamim&theme=tokyonight&hide_border=true&show_icons=true"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnathAhmedTamim&theme=tokyonight&hide_border=true&layout=compact"/> |
-| ------------- | ------------- |
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnathAhmedTamim&theme=tokyonight&hide_border=true&layout=compact"/>
+</p>
 
-### Repository Stats & Streak
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=HasnathAhmedTamim&theme=tokyonight&hide_border=true"/>
+</p>
 
-| <img src="https://github-contributor-stats.vercel.app/api?username=HasnathAhmedTamim&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/> | <img src="https://streak-stats.demolab.com/?user=HasnathAhmedTamim&theme=tokyonight&hide_border=true"/> |
-| ------------- | ------------- |
-
-<br/>
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=HasnathAhmedTamim&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
+</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HasnathAhmedTamim&theme=tokyo-night&hide_border=true"/>
@@ -225,6 +236,8 @@ Published research on fault prediction techniques for Green Cloud Computing envi
 # 💡 PHILOSOPHY
 
 > Build software that solves real problems, write clean code, and never stop learning.
+>
+> And yes, I occasionally treat debugging like an extreme sport.
 
 <br/>
 
