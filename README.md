@@ -1,160 +1,175 @@
 <!-- Banner -->
-<img src="./banner2.png" alt="Hasnath Ahmed Tamim Banner">
+<p align="center">
+  <img src="./banner2.png" alt="Hasnath Ahmed Tamim Banner" width="100%">
+</p>
 
-<br/>
+<div align="center">
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary>
-      <h1 style="display: inline-block">
-        Hi 👋, I'm Hasnath Ahmed Tamim
-      </h1>
-    </summary>
+# Hi 👋, I'm Hasnath Ahmed Tamim
 
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Junior+Software+Engineer;Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Scalable+Web+Applications;Passionate+About+Software+Engineering"
-      alt="Typing SVG"
-    />
-  </a>
-  </ul>
+### Junior Software Engineer | Full Stack Developer
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;React+%7C+Next.js+%7C+Node.js+Developer;TypeScript+Enthusiast;Passionate+About+Software+Engineering;Always+Learning+New+Technologies"
+    alt="Typing SVG"
+  />
+</a>
+
+<br>
+
+📍 Dhaka, Bangladesh • 📧 <a href="mailto:hasnath.tamim333@gmail.com">hasnath.tamim333@gmail.com</a>
+
 </div>
 
-<br/>
+---
 
-## 👨‍💻 ABOUT ME
+# 👨‍💻 About Me
 
-- 💻 Junior Software Engineer with professional experience building modern Full-Stack applications.
-- 🏢 Previously worked as a **Junior Software Engineer at Fiber@Home Ltd.**
-- 🚀 Former **Intern Developer at Itransition Group**.
-- 🌱 Currently exploring **System Design, Docker, Prisma, PostgreSQL and Cloud Technologies**.
-- ⚙️ Building scalable applications using **React.js, Next.js, Node.js and TypeScript**.
-- 🧠 Strong understanding of **REST APIs, Authentication, Database Design and Software Architecture**.
-- 📚 Pursuing **Professional Masters in Information Technology** at Jahangirnagar University.
-- 🎓 B.Sc. in Computer Science & Engineering from East West University.
-- 📍 Dhaka, Bangladesh.
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript, MongoDB and Full-Stack Development**.
-- 📫 Reach me at **hasnath.tamim333@gmail.com**.
+I'm a **Full Stack Developer** with professional experience building modern web applications using **React.js, Next.js, Node.js, TypeScript, and MongoDB**.
 
-<br/>
+Previously, I worked as a **Junior Software Engineer at Fiber@Home Ltd.**, where I contributed to frontend and backend development, REST API design, and Android applications using **Kotlin** and **Jetpack Compose**.
 
-## 🚀 CURRENT FOCUS
+I enjoy solving complex problems, designing scalable systems, and continuously learning modern technologies.
 
-- 🔭 Building Full-Stack SaaS and Real-Time Applications.
-- 🌱 Learning **Prisma ORM, PostgreSQL, Docker and System Design**.
-- ⚽ Developing Football Management and Prediction Platforms.
-- 📖 Solving JavaScript and Data Structure problems.
-- 🤝 Looking for opportunities as a **Software Engineer / Full Stack Developer**.
+---
 
-<br/>
+# 🚀 Currently
 
-## 🌐 PORTFOLIO & RESUME
+- 🔭 Building production-ready Full Stack applications.
+- 🌱 Learning **Prisma ORM**, **PostgreSQL**, **Docker**, and **System Design**.
+- ⚙️ Exploring scalable backend architecture and cloud technologies.
+- ⚽ Building football management and prediction platforms.
+- 📚 Practicing Data Structures and Algorithms.
+- 🤝 Open to Software Engineer and Full Stack Developer opportunities.
 
-- 🌍 Portfolio: https://personal-portfolio-pied-zeta.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/hasnath-ahmed-tamim/
-- 📄 Resume: Add Google Drive Resume Link Here
-- 📧 Email: hasnath.tamim333@gmail.com
+---
 
-<br/>
+# 🌐 Connect With Me
 
-## 🤝 CONNECT WITH ME
+<p align="center">
 
-<p align="left">
-<a href="https://www.linkedin.com/in/hasnath-ahmed-tamim">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/hasnath-ahmed-tamim/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:hasnath.tamim333@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://personal-portfolio-pied-zeta.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
 <a href="https://leetcode.com/hasnath_ahmed">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://personal-portfolio-pied-zeta.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view?usp=sharing">
+<img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 </a>
+
 </p>
 
-<br/>
+---
 
-# 💻 TECHNOLOGY STACK
+# 💻 Tech Stack
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,c)](https://github.com/HasnathAhmedTamim)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,prisma,tailwind,docker,firebase,git,github,postman,vscode,python,c" />
+</p>
 
-### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,next,redux,tailwind,bootstrap)](https://github.com/HasnathAhmedTamim)
+---
 
-### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/HasnathAhmedTamim)
+# 💼 Experience
 
-### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma)](https://github.com/HasnathAhmedTamim)
+## Junior Software Engineer
+### Fiber@Home Ltd.
+📅 Dec 2025 – Jun 2026
 
-### Cloud & Deployment
-[![Cloud](https://skillicons.dev/icons?i=vercel,firebase,docker)](https://github.com/HasnathAhmedTamim)
+- Developed frontend and backend features using React.js, Next.js, TypeScript, and Node.js.
+- Built and maintained RESTful APIs.
+- Collaborated with cross-functional teams to deliver scalable applications.
+- Contributed to Android application development using Kotlin and Jetpack Compose.
 
-### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/HasnathAhmedTamim)
+---
 
-<br/>
+## Intern Developer
+### Itransition Group
+📅 Apr 2025 – Aug 2025
 
-# 🚀 FEATURED PROJECTS
+- Built multiple React applications and JavaScript assignments.
+- Worked on frontend and backend development tasks.
+- Gained practical experience in API integration and database design.
 
-### ⚽ FC26 Auction
-Real-time fantasy football auction platform with live bidding and tournament management.
+---
 
-### 🏆 FIFA Prediction League
-Football prediction platform with leaderboard, admin panel and automated scoring.
+# 🚀 Featured Projects
 
-### ✅ Task Tracker App
-Full-stack task management application with JWT authentication and real-time updates.
+| Project | Description | Stack |
+|---------|-------------|--------|
+| ⚽ FC26 Auction | Real-time fantasy football auction platform with live bidding and tournament management. | Next.js • TypeScript • Node.js • MongoDB |
+| 🏆 FIFA Prediction League | Football prediction platform with leaderboard and automated scoring. | React • Node.js • MongoDB |
+| ✅ Task Tracker App | Task management application with JWT authentication and real-time updates. | MERN Stack |
+| 📚 Bookshop Management | Online bookstore with inventory management and REST APIs. | MERN Stack |
 
-### 📚 Bookshop Management System
-Online bookstore with inventory management and REST API integration.
+---
 
-<br/>
+# 📖 Research & Publications
 
-# 📊 GITHUB STATISTICS & ANALYSIS
+### Effective Fault Prediction Techniques for Green Cloud Computing Environments Using Machine Learning
 
-### Contribution Graph
-![Snake Grid](https://github.com/HasnathAhmedTamim/HasnathAhmedTamim/blob/output/grid.svg)
+Published research on fault prediction techniques for green cloud computing environments using machine learning.
 
-### GitHub Statistics
+📄 https://link.springer.com/chapter/10.1007/978-3-031-36246-0_15
 
-| Stats | Languages |
-| ----- | ----- |
-| ![](https://github-readme-stats.vercel.app/api?username=HasnathAhmedTamim&theme=tokyonight&hide_border=true&show_icons=true&count_private=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnathAhmedTamim&theme=tokyonight&hide_border=true&layout=compact) |
+---
 
-### Streak & Contributions
+# 🏆 Highlights
 
-| Streak | Contribution Stats |
-| ----- | ----- |
-| ![](https://streak-stats.demolab.com/?user=HasnathAhmedTamim&theme=tokyonight&hide_border=true) | ![](https://github-contributor-stats.vercel.app/api?username=HasnathAhmedTamim&limit=5&theme=tokyonight&combine_all_yearly_contributions=true) |
+- 💼 Professional experience as a Junior Software Engineer.
+- 📖 Published research paper on Green Cloud Computing using Machine Learning.
+- 🎓 B.Sc. in Computer Science & Engineering.
+- 📚 Pursuing Professional Masters in Information Technology.
+- 🚀 Built and deployed multiple Full Stack applications.
 
-<br/>
+---
 
-# 🏆 ACHIEVEMENTS
+# 🎯 2026 Goals
 
-- 🎓 B.Sc. in Computer Science & Engineering
-- 📖 Published Research Paper on Green Cloud Computing and Machine Learning.
-- 💼 Professional experience at Fiber@Home Ltd.
-- 🚀 Built multiple Full-Stack applications and deployed production-ready projects.
+- Contribute to Open Source.
+- Deep dive into System Design.
+- Build scalable SaaS applications.
+- Strengthen Backend Engineering skills.
+- Become a better Software Engineer every day.
 
-<br/>
+---
 
-# ✍️ RANDOM DEV QUOTE
+# 📊 GitHub Analytics
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HasnathAhmedTamim&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnathAhmedTamim&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=HasnathAhmedTamim&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasnathAhmedTamim&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
-<h3 align="center">
-Code • Learn • Build • Repeat 🚀
-</h3>
+<div align="center">
+
+### Open to Software Engineer & Full Stack Developer Opportunities 🚀
+
+**Code • Learn • Build • Repeat**
+
+</div>
