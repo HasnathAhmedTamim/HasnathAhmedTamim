@@ -34,17 +34,13 @@
 
 # 👨‍💻 ABOUT ME
 
-- 💻 Full Stack Developer with professional experience building scalable web applications.
-- 🏢 Former **Junior Software Engineer at Fiber@Home Ltd.**
-- 🚀 Former **Intern Developer at Itransition Group**.
-- 🌱 Currently learning **Prisma, PostgreSQL, Docker, System Design, and Cloud Technologies**.
-- ⚙️ Building applications using **React.js, Next.js, Node.js, TypeScript, and MongoDB**.
-- 🧠 Strong understanding of **REST APIs, Authentication, Database Design, and Software Architecture**.
-- 🎓 B.Sc. in Computer Science & Engineering from **East West University**.
-- 📚 Pursuing **Professional Masters in Information Technology** at **Jahangirnagar University**.
-- ⚽ Beyond coding, I enjoy building football-related platforms that combine technology, competition, and community.
-- 💬 Ask me about **React, Next.js, Node.js, TypeScript, MongoDB, and Full Stack Development**.
-- 🤝 Open to **Software Engineer** and **Full Stack Developer** opportunities, particularly in building scalable web applications and backend systems.
+- 💻 Full Stack Developer building modern and scalable web applications.
+- 🚀 Ex-Junior Software Engineer at **Fiber@Home Ltd.** and **Intern Developer at Itransition Group**.
+- ⚙️ Working with **React, Next.js, Node.js, TypeScript, and MongoDB**.
+- 🌱 Currently exploring **Prisma, PostgreSQL, Docker, System Design, and Cloud Technologies**.
+- ⚽ Football enthusiast who enjoys building sports-tech platforms.
+
+📄 [Resume](https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view) • 💼 [LinkedIn](https://www.linkedin.com/in/hasnath-ahmed-tamim/) • 📧 [Contact Me](mailto:hasnath.tamim333@gmail.com)
 
 <br/>
 
@@ -64,55 +60,59 @@
 
 # 🌐 PORTFOLIO & RESUME
 
-- 🌍 Portfolio: https://personal-portfolio-pied-zeta.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/hasnath-ahmed-tamim/
-- 📄 [View My Resume](https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view)
-- 📧 Email: hasnath.tamim333@gmail.com
+🌍 **Portfolio:** [Visit Website](https://personal-portfolio-pied-zeta.vercel.app/)  
+💼 **LinkedIn:** [Hasnath Ahmed Tamim](https://www.linkedin.com/in/hasnath-ahmed-tamim/)  
+💻 **GitHub:** [HasnathAhmedTamim](https://github.com/HasnathAhmedTamim)  
+📄 **Resume:** [View Resume](https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view)  
+📧 **Email:** [hasnath.tamim333@gmail.com](mailto:hasnath.tamim333@gmail.com)
 
 <br/>
 
-# <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"> <b>CONNECT WITH ME</b>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/hasnath-ahmed-tamim">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:hasnath.tamim333@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/hasnath_ahmed">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://personal-portfolio-pied-zeta.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
+<p align="center">
+  <a href="https://github.com/HasnathAhmedTamim"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://www.linkedin.com/in/hasnath-ahmed-tamim/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:hasnath.tamim333@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
-<br/>
-
+<p align="center">
+  <a href="https://www.facebook.com/hasnathahmedtamim">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/hasnath_ahmed">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://personal-portfolio-pied-zeta.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1Y4GRfbP4uCPyu4Q4Z_bxkZTIOsjUWAoP/view">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 # <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width="35"> <b>TECHNOLOGY STACK</b>
 
 ### Languages
+
 [![Languages](https://skillicons.dev/icons?i=js,ts,python,c)](https://github.com/HasnathAhmedTamim)
 
 ### Frontend
+
 [![Frontend](https://skillicons.dev/icons?i=html,css,react,next,redux,tailwind,bootstrap)](https://github.com/HasnathAhmedTamim)
 
 ### Backend
+
 [![Backend](https://skillicons.dev/icons?i=nodejs,express)](https://github.com/HasnathAhmedTamim)
 
 ### Database & ORM
+
 [![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma)](https://github.com/HasnathAhmedTamim)
 
 ### Deployment & Cloud
+
 [![Cloud](https://skillicons.dev/icons?i=vercel,firebase,docker)](https://github.com/HasnathAhmedTamim)
 
 ### Tools & Technologies
+
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/HasnathAhmedTamim)
 
 <br/>
@@ -120,7 +120,9 @@
 # 💼 EXPERIENCE
 
 ## Junior Software Engineer
+
 ### Fiber@Home Ltd.
+
 📅 Dec 2025 – Jun 2026
 
 - Developed frontend and backend features using React.js, Next.js, TypeScript, and Node.js for internal and customer-facing applications.
@@ -131,7 +133,9 @@
 ---
 
 ## Intern Developer
+
 ### Itransition Group
+
 📅 Apr 2025 – Aug 2025
 
 - Built multiple React applications and JavaScript assignments.
@@ -143,6 +147,7 @@
 # 🚀 FEATURED PROJECTS
 
 ### ⚽ FC26 Auction
+
 Real-time fantasy football auction platform featuring live bidding, tournament management, squad building, lineup management, and role-based administration.
 
 **Tech Stack:** Next.js • TypeScript • Node.js • MongoDB • Socket.IO
@@ -152,6 +157,7 @@ Real-time fantasy football auction platform featuring live bidding, tournament m
 ---
 
 ### 🏆 FIFA Prediction League
+
 Football prediction platform featuring automated scoring, knockout qualification logic, and real-time leaderboards.
 
 **Tech Stack:** React • Node.js • MongoDB • PostgreSQL
@@ -161,6 +167,7 @@ Football prediction platform featuring automated scoring, knockout qualification
 ---
 
 ### 🏋️ GearUp Backend API
+
 Role-based backend API featuring JWT authentication, Stripe payments, rental management, and RBAC.
 
 **Tech Stack:** Node.js • Express • TypeScript • Prisma • PostgreSQL
@@ -170,6 +177,7 @@ Role-based backend API featuring JWT authentication, Stripe payments, rental man
 ---
 
 ### ⚽ FPL News Portal
+
 Fantasy Premier League platform featuring player analysis, points calculator, and fixture difficulty tools.
 
 **Tech Stack:** Next.js • React • TypeScript • Tailwind CSS
@@ -208,6 +216,27 @@ Published research on fault prediction techniques for Green Cloud Computing envi
 - Become a better Software Engineer every day.
 
 <br/>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/HasnathAhmedTamim/HasnathAhmedTamim/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/HasnathAhmedTamim/HasnathAhmedTamim/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution snake"
+    src="https://raw.githubusercontent.com/HasnathAhmedTamim/HasnathAhmedTamim/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+---
 
 # <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"> <b>GITHUB STATISTICS & ANALYSIS</b>
 
