@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="./banner/github_banner.png" alt="Hasnath Ahmed Tamim Banner">
+<img src="./banner2.png" alt="Hasnath Ahmed Tamim Banner">
 
 <br/>
 
