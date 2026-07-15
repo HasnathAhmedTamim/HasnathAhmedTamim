@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="./banner2.png" alt="Hasnath Ahmed Tamim Banner" width="100%">
+  <img src="./mainbanner.png" alt="Hasnath Ahmed Tamim Banner" width="100%">
 </p>
 
 <br/>
