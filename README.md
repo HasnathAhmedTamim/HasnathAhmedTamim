@@ -36,7 +36,7 @@
 - ⚽ Football enthusiast who enjoys building sports-tech platforms and real-time applications.
 - 🎯 Interested in Backend Engineering, Scalable Systems, and SaaS Product Development.
 
-📄 [Resume](https://drive.google.com/file/d/1zGzqlHkbK8nYkdCuZOPpIykKI8fq_zGt/view)
+📄 [Resume](https://drive.google.com/file/d/1KYyiBivlo0a4HdU9RAZKBviHQZCGfAT3/view)
 • 💼 [LinkedIn](https://www.linkedin.com/in/hasnath-ahmed-tamim/)
 • 📧 [Contact Me](mailto:hasnath.tamim333@gmail.com)
 
