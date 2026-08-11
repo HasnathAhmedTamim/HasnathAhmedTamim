@@ -1,7 +1,7 @@
 <!-- ==================== BANNER ==================== -->
 
 <p align="center">
-  <img src="./mainbanner.png" alt="Hasnath Ahmed Tamim - Full Stack Developer" width="100%">
+  <img src="./mainbanner.png" alt="Hasnath Ahmed Tamim - Software Developer" width="100%">
 </p>
 
 <br/>
@@ -12,24 +12,24 @@
 
 # Hi 👋, I'm Hasnath Ahmed Tamim
 
-### Full Stack Developer | Junior Software Engineer
+### Software Developer | Full Stack (React · Next.js · Node.js)
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Junior+Software+Engineer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Scalable+Web+Applications;Backend+Engineering+Learner;Passionate+About+Software+Engineering"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=24&pause=1000&color=2DD4BF&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+PostgreSQL+%7C+Prisma;Building+Scalable+Web+Applications;Open+to+Junior+Software+Roles"
     alt="Typing SVG"
   />
 </a>
 
 <br/>
 
-📍 Dhaka, Bangladesh •
+📍 Dhaka, Bangladesh · Open to full-time / remote opportunities  
 📧 <a href="mailto:hasnath.tamim333@gmail.com">hasnath.tamim333@gmail.com</a>
 
 <br/><br/>
 
 <img
-  src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20Views&color=0e75b6&style=flat"
+  src="https://komarev.com/ghpvc/?username=HasnathAhmedTamim&label=Profile%20Views&color=2DD4BF&style=flat"
   alt="Profile Views"
 />
 
@@ -39,14 +39,14 @@
 
 # 👨‍💻 ABOUT ME
 
-- 💻 Full Stack Developer building modern, scalable, and production-ready web applications.
-- 🚀 Former **Junior Software Engineer at Fiber@Home Ltd.** and **Intern Developer at Itransition Group**.
-- ⚙️ Working with **React, Next.js, Node.js, TypeScript, MongoDB, PostgreSQL, and Prisma**.
+- 💻 Software Developer building modern, scalable, production-ready web applications.
+- 🚀 Experience as **Junior Software Intern Engineer at Fiber@Home Ltd.** and **Intern Developer at Itransition Group**.
+- ⚙️ Working with **React, Next.js, TypeScript, Node.js, PostgreSQL, MongoDB, and Prisma**.
 - 🌱 Currently exploring **System Design, Docker, Backend Architecture, and Cloud Technologies**.
 - ⚽ Football enthusiast who enjoys building **sports-tech platforms and real-time applications**.
-- 🎯 Interested in **Backend Engineering, Scalable Systems, and SaaS Product Development**.
+- 🎯 Interested in **Full Stack Development, Backend Engineering, and SaaS products**.
 
-📄 [Resume](https://drive.google.com/file/d/1KYyiBivlo0a4HdU9RAZKBviHQZCGfAT3/view)
+📄 [Resume](https://drive.google.com/file/d/1Awei2dykg94-jn7xo2IGlyS5qd7yfX8A/view?usp=sharing)
 •
 💼 [LinkedIn](https://www.linkedin.com/in/hasnath-ahmed-tamim/)
 •
@@ -68,10 +68,10 @@
 </p>
 
 - 🔭 Building **Full Stack SaaS and Real-Time Applications**.
-- 🌱 Learning **Prisma ORM, PostgreSQL, Docker, and System Design**.
+- 🌱 Strengthening **Prisma, PostgreSQL, Docker, and System Design**.
 - ⚽ Developing **Football Management and Prediction Platforms**.
 - 📚 Practicing **Data Structures and Algorithms**.
-- 🚀 Exploring **Backend Architecture and Cloud Technologies**.
+- 🚀 Exploring **Backend Architecture and Cloud Fundamentals**.
 
 <br/>
 
@@ -101,6 +101,20 @@
 
 <p align="center">
 
+  <a href="https://leetcode.com/hasnath_ahmed">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="LeetCode"
+    />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1Awei2dykg94-jn7xo2IGlyS5qd7yfX8A/view?usp=sharing">
+    <img
+      src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
+      alt="Resume"
+    />
+  </a>
+
   <a href="https://www.facebook.com/HasnathAhmedTamim">
     <img
       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
@@ -115,20 +129,6 @@
     />
   </a>
 
-  <a href="https://leetcode.com/hasnath_ahmed">
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
-      alt="LeetCode"
-    />
-  </a>
-
-  <a href="https://drive.google.com/file/d/1KYyiBivlo0a4HdU9RAZKBviHQZCGfAT3/view">
-    <img
-      src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"
-      alt="Resume"
-    />
-  </a>
-
 </p>
 
 ---
@@ -137,11 +137,11 @@
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=js,ts,python,c)](https://github.com/HasnathAhmedTamim)
+[![Languages](https://skillicons.dev/icons?i=js,ts)](https://github.com/HasnathAhmedTamim)
 
 ### Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=html,css,react,next,redux,tailwind,bootstrap)](https://github.com/HasnathAhmedTamim)
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind)](https://github.com/HasnathAhmedTamim)
 
 ### Backend
 
@@ -149,30 +149,32 @@
 
 ### Database & ORM
 
-[![Database](https://skillicons.dev/icons?i=mongodb,postgres,mysql,prisma)](https://github.com/HasnathAhmedTamim)
+[![Database](https://skillicons.dev/icons?i=postgres,mongodb,mysql,prisma)](https://github.com/HasnathAhmedTamim)
 
 ### Deployment & Cloud
 
 [![Cloud](https://skillicons.dev/icons?i=vercel,firebase,docker)](https://github.com/HasnathAhmedTamim)
 
-### Tools & Technologies
+### Tools
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://github.com/HasnathAhmedTamim)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vite)](https://github.com/HasnathAhmedTamim)
+
+**Also:** JWT Authentication · RBAC · REST APIs · MVC · Stripe · Zod · TanStack Query
 
 ---
 
 # 💼 PROFESSIONAL EXPERIENCE
 
-## Junior Software Engineer
+## Junior Software Intern Engineer
 
 ### Fiber@Home Ltd.
 
 📅 **Dec 2025 – Jun 2026**
 
-- Developed frontend and backend features using **React.js, Next.js, TypeScript, and Node.js**.
-- Designed and integrated **RESTful APIs** supporting multiple application modules.
-- Collaborated with cross-functional teams to deliver production-ready software.
-- Contributed to Android application development using **Kotlin and Jetpack Compose**.
+- Developed and maintained responsive full-stack features using **React.js, Next.js, TypeScript, and Node.js**.
+- Built and integrated **RESTful APIs** to support frontend and backend workflows.
+- Collaborated with teams to deliver production-ready software.
+- Contributed to Android development using **Kotlin and Jetpack Compose**.
 
 ---
 
@@ -182,17 +184,49 @@
 
 📅 **Apr 2025 – Aug 2025**
 
-- Built multiple **React applications** and completed JavaScript-focused development assignments.
-- Worked on frontend and backend development tasks.
-- Gained practical experience in **API integration and database design**.
+- Built **5+ React.js** mini projects focused on frontend development.
+- Worked with component-based architecture, API integration, and responsive UI.
+- Gained practical experience in **backend integration and database design**.
 
 ---
 
 # 🚀 FEATURED PROJECTS
 
+## 🏕️ [GearUp – Sports & Outdoor Gear Rental](https://b7-a5-gear-up-frontend-assignment.vercel.app/)
+
+Full-stack rental platform with **Customer / Provider / Admin** dashboards, JWT auth, Stripe Checkout, rental & inventory management, and review system.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,postgres,prisma" height="32" alt="GearUp Tech Stack"/>
+</p>
+
+[🌐 Live App](https://b7-a5-gear-up-frontend-assignment.vercel.app/)
+•
+[📂 Frontend](https://github.com/HasnathAhmedTamim/B7A5-GearUp-Frontend-Assignment-)
+•
+[⚙️ Backend](https://github.com/HasnathAhmedTamim/B7A4-GearUp-Backend-Assignment)
+
+---
+
+## 🎓 [Student Management Dashboard](https://student-management-dashboard-inky-kappa.vercel.app/)
+
+Admin dashboard to **search, filter, sort, paginate, create, update, and delete** students — with auth, Zod validation, Redux Toolkit, Prisma, and PostgreSQL.
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,redux,postgres,prisma" height="32" alt="Student Management Tech Stack"/>
+</p>
+
+[🌐 Live App](https://student-management-dashboard-inky-kappa.vercel.app/)
+•
+[📂 GitHub Repository](https://github.com/HasnathAhmedTamim/student-management-dashboard)
+
+> Demo login: `admin` / `admin123`
+
+---
+
 ## ⚽ [FC26 Auction](https://fc26-test-auctions.vercel.app/)
 
-A real-time fantasy football auction platform featuring **live bidding, squad management, tournament fixtures, lineup management, and role-based administration**.
+Real-time fantasy football auction platform with **live bidding, squad management, tournament fixtures, and role-based administration**.
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,ts,nodejs,mongodb" height="32" alt="FC26 Tech Stack"/>
@@ -206,7 +240,7 @@ A real-time fantasy football auction platform featuring **live bidding, squad ma
 
 ## 🏆 [FIFA Prediction League](https://client-kappa-eight-62.vercel.app/)
 
-A football prediction platform featuring **automated scoring, knockout qualification logic, role-based administration, and real-time leaderboards**.
+Football prediction platform with **automated scoring, knockout logic, admin panel, and real-time leaderboards**.
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,postgres" height="32" alt="FIFA Prediction League Tech Stack"/>
@@ -218,23 +252,9 @@ A football prediction platform featuring **automated scoring, knockout qualifica
 
 ---
 
-## 🏋️ [GearUp Backend API](https://b7a4-gearup-backend-assignment.onrender.com/)
+## 📰 [FPL News Portal](https://fpl-news-portal-nextjs.vercel.app/)
 
-A role-based backend API for a sports and outdoor equipment rental platform featuring **JWT authentication, Stripe payments, rental management, reviews, and RBAC**.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,postgres,prisma" height="32" alt="GearUp Tech Stack"/>
-</p>
-
-[🌐 Live API](https://b7a4-gearup-backend-assignment.onrender.com/)
-•
-[📂 GitHub Repository](https://github.com/HasnathAhmedTamim/B7A4-GearUp-Backend-Assignment)
-
----
-
-## ⚽ [FPL News Portal](https://fpl-news-portal-nextjs.vercel.app/)
-
-A Fantasy Premier League news and analytics platform featuring **FPL news, player analysis, points calculator, fixture difficulty tools, and a responsive modern interface**.
+Fantasy Premier League hub with **news, player analysis, points calculator, fixture difficulty tools, and responsive UI**.
 
 <p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind" height="32" alt="FPL News Portal Tech Stack"/>
@@ -248,7 +268,7 @@ A Fantasy Premier League news and analytics platform featuring **FPL news, playe
 
 ## 🚀 [Personal Portfolio](https://personal-portfolio-pied-zeta.vercel.app/)
 
-A responsive personal portfolio showcasing my **projects, technical skills, professional experience, research publication, and software engineering journey**.
+Developer portfolio showcasing **projects, skills, experience, research, and software engineering journey**.
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="32" alt="Portfolio Tech Stack"/>
@@ -260,17 +280,10 @@ A responsive personal portfolio showcasing my **projects, technical skills, prof
 
 ---
 
-## 📚 [Bookshop Management System](https://lovely-selkie-1c53f7.netlify.app/)
+# 🎓 EDUCATION
 
-A full-stack online bookstore featuring **inventory management, Firebase authentication, REST APIs, MongoDB integration, and a responsive user interface**.
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase" height="32" alt="Bookshop Tech Stack"/>
-</p>
-
-[🌐 Live Application](https://lovely-selkie-1c53f7.netlify.app/)
-•
-[📂 GitHub Repository](https://github.com/HasnathAhmedTamim/simple-bookshop-management-client)
+- **Professional Masters in Information Technology** — Jahangirnagar University *(May 2024 – Present)* · CGPA **3.94**
+- **B.Sc. in Computer Science & Engineering** — East West University *(Jan 2019 – Dec 2023)* · CGPA **3.23**
 
 ---
 
@@ -278,30 +291,30 @@ A full-stack online bookstore featuring **inventory management, Firebase authent
 
 ### [Effective Fault Prediction Techniques for Green Cloud Computing Environments Using Machine Learning](https://link.springer.com/chapter/10.1007/978-3-031-36246-0_15)
 
-Published research exploring **machine-learning-based fault prediction techniques for Green Cloud Computing environments**.
+Published research on **machine-learning-based fault prediction for Green Cloud Computing environments**. Springer, 2023.
 
 📄 [View Publication](https://link.springer.com/chapter/10.1007/978-3-031-36246-0_15)
 
 ---
 
-# 🏆 ACHIEVEMENTS
+# 🏆 HIGHLIGHTS
 
-- 💼 Professional experience as a **Junior Software Engineer**.
-- 📖 Published research in **Machine Learning and Green Cloud Computing**.
-- 🎓 B.Sc. in **Computer Science & Engineering**.
-- 📚 Pursuing a **Professional Masters in Information Technology**.
-- 🚀 Built and deployed multiple **Full Stack and Backend applications**.
+- 💼 Internship experience in full-stack web and Android feature development
+- 🚀 Shipped multi-role apps with **auth, payments, dashboards, and live demos**
+- 📖 Published research in **Machine Learning and Green Cloud Computing**
+- 🎓 Strong academic track: Masters CGPA **3.94**, CSE background
+- 🛠️ Comfortable across **frontend, APIs, databases, and deployment**
 
 ---
 
 # 🎯 2026 GOALS
 
-- 🌍 Contribute to **Open Source**.
-- 🏗️ Deep dive into **System Design**.
-- 🚀 Build scalable **SaaS applications**.
-- ⚙️ Strengthen **Backend Engineering** skills.
-- ☁️ Learn **Cloud and DevOps fundamentals**.
-- 📈 Continuously grow as a **Software Engineer**.
+- 🌍 Contribute to **Open Source**
+- 🏗️ Deep dive into **System Design**
+- 🚀 Build scalable **SaaS applications**
+- ⚙️ Strengthen **Backend Engineering** skills
+- ☁️ Learn **Cloud and DevOps fundamentals**
+- 📈 Grow as a **Software Engineer**
 
 ---
 
@@ -326,24 +339,31 @@ Published research exploring **machine-learning-based fault prediction technique
 
 ---
 
-# 📊 GITHUB STATISTICS & ANALYSIS
+# 📊 GITHUB STATISTICS
 
-### 🔥 Contribution Streak
+### Contribution Streak
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=HasnathAhmedTamim&theme=tokyonight&hide_border=true"
-    alt="Hasnath Ahmed Tamim GitHub Contribution Streak"
+    alt="GitHub Contribution Streak"
   />
 </p>
 
-### 📈 Contribution Activity
+### Contribution Activity
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=HasnathAhmedTamim&theme=tokyo-night&hide_border=true&area=true"
-    alt="Hasnath Ahmed Tamim GitHub Contribution Activity"
+    alt="GitHub Contribution Activity"
   />
+</p>
+
+### Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasnathAhmedTamim&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnathAhmedTamim&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
 </p>
 
 ---
@@ -358,9 +378,9 @@ Published research exploring **machine-learning-based fault prediction technique
 
 <div align="center">
 
-### 🚀 Open to Software Engineer & Full Stack Developer Opportunities
+### 🚀 Open to Software Developer & Full Stack Opportunities
 
-I'm interested in opportunities where I can contribute to building **scalable web applications, backend systems, and meaningful software products**.
+I want to contribute to **scalable web applications, clean APIs, and meaningful products**.
 
 📧 **[hasnath.tamim333@gmail.com](mailto:hasnath.tamim333@gmail.com)**
 
@@ -368,7 +388,7 @@ I'm interested in opportunities where I can contribute to building **scalable we
 •
 💼 **[LinkedIn](https://www.linkedin.com/in/hasnath-ahmed-tamim/)**
 •
-📄 **[Resume](https://drive.google.com/file/d/1KYyiBivlo0a4HdU9RAZKBviHQZCGfAT3/view)**
+📄 **[Resume](https://drive.google.com/file/d/1Awei2dykg94-jn7xo2IGlyS5qd7yfX8A/view?usp=sharing)**
 
 <br/>
 
